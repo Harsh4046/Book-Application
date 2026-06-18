@@ -108,7 +108,7 @@ CREATE DATABASE bookdb;
 Configure `application.properties`:
 
 ```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/bookdb
+spring.datasource.url=jdbc:mysql://localhost:3306/db_name
 spring.datasource.username=root
 spring.datasource.password=your_password
 
